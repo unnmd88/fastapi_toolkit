@@ -6,7 +6,7 @@ app = FastAPI(
     title='Engineering tools'
 )
 
-print('rr ')
+print('tess1')
 
 @app.get('/get_test')
 def get_data():
